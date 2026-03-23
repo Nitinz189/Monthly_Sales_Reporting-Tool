@@ -18,7 +18,7 @@ In many organizations, reporting analysts:
 👉 This project solves that by **automating the entire reporting layer inside Excel**.
 
 ---
-
+![Screenshot](https://github.com/Nitinz189/Monthly_Sales_Reporting-Tool/blob/main/Screenshot%20.png)
 ## ⚙️ Features
 
 ### ✅ Automated Table of Contents (TOC)
