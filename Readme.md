@@ -36,10 +36,14 @@ In many organizations, reporting analysts:
 - Converts raw sheets into a structured reporting format
 - Eliminates manual linking between sheets
 
+![Screenshot3](Screenshot3.png)
+
 ### ✅ Regional & Manager Reporting Automation
 - Generate the Regional & Manager Reports for each region  
 - Create a **pivot-based Excel report** for Regional Managers  
-- Create a **hardcoded summary report** for Top Management  
+- Create a **hardcoded summary report** for Top Management
+
+![Screenshot2](Screenshot2.png)
 
 ### ✅ CSV Export for Central Reporting
 - Create CSV file of ALL data for the current month  
