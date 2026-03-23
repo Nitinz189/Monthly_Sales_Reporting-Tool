@@ -15,6 +15,12 @@ In many organizations, reporting analysts:
 - Build repetitive structures every month
 - Risk human errors in linking and formatting
 
+## 📈 Impact
+- ⏱️ Saves 80–90% manual reporting time  
+- ❌ Reduces human errors  
+- 📊 Improves report readability  
+- ⚡ Enables faster decision-making
+
 👉 This project solves that by **automating the entire reporting layer inside Excel**.
 
 ---
@@ -30,9 +36,14 @@ In many organizations, reporting analysts:
 - Converts raw sheets into a structured reporting format
 - Eliminates manual linking between sheets
 
-### ✅ Hyperlinked Navigation System
-- Each report section is interconnected
-- Enables fast movement across dashboards and data
+### ✅ Regional & Manager Reporting Automation
+- Generate the Regional & Manager Reports for each region  
+- Create a **pivot-based Excel report** for Regional Managers  
+- Create a **hardcoded summary report** for Top Management  
+
+### ✅ CSV Export for Central Reporting
+- Create CSV file of ALL data for the current month  
+- Ready to upload to central system for **year-to-date reporting**
 
 ### ✅ Scalable Design
 - Works with any number of sheets
@@ -80,11 +91,7 @@ This tool simulates how a **Reporting Analyst** would:
 
 ---
 
-## 📈 Impact
-- ⏱️ Saves 80–90% manual reporting time  
-- ❌ Reduces human errors  
-- 📊 Improves report readability  
-- ⚡ Enables faster decision-making
+
 
 ## 👨‍💻 Author
 **Nitin Vishwakarma**  
